@@ -1,5 +1,4 @@
 tensorflow==2.15.0
-pickle
 pandas
 numpy
 scikit-learn
@@ -8,4 +7,5 @@ matplotlib
 streamlit
 keras
 scikeras
+
 nltk
